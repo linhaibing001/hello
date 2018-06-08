@@ -1,18 +1,19 @@
-[ngork 官网链接] (https://dashboard.ngrok.com/get-started)
-[ telegram 聊天软件官网Api] ( https://core.telegram.org/bots/api)
-[图片托管平台 ]         ( https://postimages.org/)
+[ngork 官网链接] (https://dashboard.ngrok.com/get-started)    
+[ telegram 聊天软件官网Api] ( https://core.telegram.org/bots/api)   
+[图片托管平台 ]         ( https://postimages.org/)    
 
-# 第一步
+### 第一步
 ngork  作用： 本地映射为http 或https
 
 1.1下载
 
 
-# 第二步
+### 第二步
 telegram，下载telegram，创建bot机器人，
 
 
-# 第三步 @<机器人> /<自己说的话>         列子： @DiaoMao_bot  /666666666666666
+### 第三步 
+@<机器人> /<自己说的话>         列子： @DiaoMao_bot  /666666666666666
 
 # 第四步  
 浏览器接受发给机器人的语句
