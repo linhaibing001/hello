@@ -3,12 +3,15 @@
 [图片托管平台 ]         ( https://postimages.org/)    
 
 ### 第一步
-ngork  作用： 本地映射为http 或https
+1.1ngork  作用： 本地映射为http 或https
 ![](https://s33.postimg.cc/w6fosbo9b/ngrok.jpg)
-域名：
-<a href='https://postimg.cc/image/t0v321srf/' target='_blank'><img src='https://s33.postimg.cc/t0v321srf/ngrok.jpg' border='0' alt='ngrok'/></a>
-![]()
-1.1下载
+启动成功：
+![](https://s33.postimg.cc/fwpipd0pr/ngrok.jpg)
+
+域名：（看结果决定）
+Forwarding                    http://e390d735.ngrok.io -> localhost:80
+Forwarding                    https://e390d735.ngrok.io -> localhost:80
+
 
 
 ### 第二步
