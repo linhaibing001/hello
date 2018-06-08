@@ -1,3 +1,7 @@
+
+#  telegram 简单应用列子
+
+
 [ngork 官网链接] (https://dashboard.ngrok.com/get-started)    
 [ telegram 聊天软件官网Api] ( https://core.telegram.org/bots/api)   
 [图片托管平台 ]         ( https://postimages.org/)    
@@ -29,4 +33,4 @@ telegram，下载telegram，创建bot机器人，
 (setWebhook 設定 webhook 在有人傳送訊息給您的 bot (或加入、離開群組等) 時， Telegram 將會使用 JSON 格式 POST 到您的伺服器)
 
 # 第五步
-后台不服务器给机器人发送信息
+后台服务器给机器人发送信息
